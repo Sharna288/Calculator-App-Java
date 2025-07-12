@@ -20,7 +20,7 @@ It supports basic arithmetic operations and maintains a history log of calculati
 ## Demo Video
 
 You can watch the demo video of this project on LinkedIn here:  
-[Watch Demo on LinkedIn](https://www.linkedin.com/posts/sharna-akther-4a1226371_java-swing-eclipseide-activity-7349775779162931200-nwmK?utm_source=share&utm_medium=member_android&rcm=ACoAAFwMNTkBJFF-WXkuKF1xeL_aMxjWijV1omc)
+[Watch Demo on LinkedIn](https://www.linkedin.com/posts/sharna-akther-4a1226371_java-swing-eclipseide-activity-7349804810872725506-g5w-?utm_source=share&utm_medium=member_android&rcm=ACoAAFwMNTkBJFF-WXkuKF1xeL_aMxjWijV1omc)
 
 ---
 
